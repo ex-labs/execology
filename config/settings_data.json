@@ -414,11 +414,20 @@
               "local": "in North Carolina",
               "time": ""
             }
+          },
+          "7baf15b1-15c1-4741-ae48-673c2a844561": {
+            "type": "product",
+            "settings": {
+              "product": "dustmitex-32oz-spray-bottle",
+              "local": "in Texas",
+              "time": ""
+            }
           }
         },
         "block_order": [
           "4fddfb34-6674-426d-9d09-5e2bde5a34ae",
-          "27370f5d-abf9-4358-84a7-0585bd4a8095"
+          "27370f5d-abf9-4358-84a7-0585bd4a8095",
+          "7baf15b1-15c1-4741-ae48-673c2a844561"
         ],
         "settings": {
           "enable": true,
