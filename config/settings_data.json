@@ -2469,6 +2469,7 @@
           "1584978388262": {
             "type": "image",
             "settings": {
+              "image": "shopify:\/\/shop_images\/EWAADetergentLeaf_Edited.png",
               "posimage": "rightimage",
               "alignment": "center center",
               "text_alignment": "center center",
@@ -2480,7 +2481,7 @@
               "subheading": "Recommended by Allergists & Dermatologists",
               "subheading_color": "#aba49d",
               "button_label": "discover now",
-              "button_link": "shopify:\/\/collections",
+              "button_link": "shopify:\/\/products\/the-hypoallergenic-laundry-detergent-recommended-by-allergists-and-dermatologists",
               "stylebtn": true,
               "bg_button": "#407c5d",
               "color_button": "#ffffff",
