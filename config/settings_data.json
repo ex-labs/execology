@@ -446,6 +446,7 @@
           },
           "01bdbe1c-0a11-4f4e-a4cc-ed02e7485feb": {
             "type": "product",
+            "disabled": true,
             "settings": {
               "product": "anti-allergen-laundry-detergent-40-oz",
               "local": "in Florida, USA",
@@ -454,6 +455,7 @@
           },
           "bb16f7d8-30d2-49ac-9a67-418fe449d476": {
             "type": "product",
+            "disabled": true,
             "settings": {
               "product": "anti-allergen-pet-shampoo-16-oz",
               "local": "in North Carolina, USA",
@@ -462,6 +464,7 @@
           },
           "8aae4b00-db5c-40a4-b4fc-1d87572bd787": {
             "type": "product",
+            "disabled": true,
             "settings": {
               "product": "anti-allergen-spray",
               "local": "in California, USA",
@@ -470,6 +473,7 @@
           },
           "c3eb8232-9b69-4462-a012-537159774094": {
             "type": "product",
+            "disabled": true,
             "settings": {
               "product": "dustmitex-32oz-spray-bottle",
               "local": "in New York, USA",
@@ -478,6 +482,7 @@
           },
           "c1e15595-a9ce-4b12-9448-211d42544b07": {
             "type": "product",
+            "disabled": true,
             "settings": {
               "product": "anti-allergen-laundry-detergent-40-oz",
               "local": "in California, USA",
@@ -486,6 +491,7 @@
           },
           "845d0323-5d66-4bb8-8ec3-1bf0fb7db3cc": {
             "type": "product",
+            "disabled": true,
             "settings": {
               "product": "vital-oxide-32oz-mold-mildew-killer-disinfectant-cleaner-odor-remover",
               "local": "in California, USA",
@@ -494,9 +500,18 @@
           },
           "ff5e12ab-3a02-4687-87b0-5b32ebbd8ee2": {
             "type": "product",
+            "disabled": true,
             "settings": {
               "product": "anti-allergen-pet-shampoo-16-oz",
               "local": "in Texas, USA",
+              "time": ""
+            }
+          },
+          "4fddfb34-6674-426d-9d09-5e2bde5a34ae": {
+            "type": "product",
+            "settings": {
+              "product": "the-hypoallergenic-laundry-detergent-recommended-by-allergists-and-dermatologists",
+              "local": "in Florida",
               "time": ""
             }
           }
@@ -513,7 +528,8 @@
           "c3eb8232-9b69-4462-a012-537159774094",
           "c1e15595-a9ce-4b12-9448-211d42544b07",
           "845d0323-5d66-4bb8-8ec3-1bf0fb7db3cc",
-          "ff5e12ab-3a02-4687-87b0-5b32ebbd8ee2"
+          "ff5e12ab-3a02-4687-87b0-5b32ebbd8ee2",
+          "4fddfb34-6674-426d-9d09-5e2bde5a34ae"
         ],
         "settings": {
           "enable": true,
