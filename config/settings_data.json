@@ -4159,9 +4159,9 @@
           "505960cd-9611-4cd6-8b2d-14eb6453395f"
         ],
         "settings": {
-          "title_page": "Need Help! Let's Connect",
-          "contact_des": "Have a question? Give us a call or fill out the contact form. We’d love to hear from you",
-          "gmap": true,
+          "title_page": "Need Help? Let's Connect!",
+          "contact_des": "Have a question? Give us a call or fill out the contact form. We’d love to hear from you!",
+          "gmap": false,
           "gmap_iframe": ""
         }
       }
