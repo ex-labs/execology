@@ -1600,7 +1600,8 @@
           "1565708450613",
           "1562509535458"
         ],
-        "settings": {}
+        "settings": {
+        }
       },
       "page-faqs": {
         "type": "page-faqs",
@@ -2445,7 +2446,6 @@
           "1583425647500": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/ecology3.jpg",
               "posimage": "leftimage",
               "alignment": "left top",
               "text_alignment": "center center",
@@ -2468,7 +2468,6 @@
           "1584978388262": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/EWAADetergentLeaf_Edited.png",
               "posimage": "rightimage",
               "alignment": "center center",
               "text_alignment": "center center",
@@ -3184,7 +3183,8 @@
       },
       "slideshow-4": {
         "type": "slideshow-4",
-        "settings": {}
+        "settings": {
+        }
       },
       "pnewsletter-3": {
         "type": "pnewsletter-3",
@@ -3865,7 +3865,6 @@
           "16212690223f54528e-0": {
             "type": "image_block",
             "settings": {
-              "image": "shopify:\/\/shop_images\/EW_3_Products.png"
             }
           },
           "16212690223f54528e-1": {
@@ -3973,7 +3972,8 @@
           },
           "1621272610bd4f0ed8-2": {
             "type": "image_block",
-            "settings": {}
+            "settings": {
+            }
           }
         },
         "block_order": [
@@ -4014,8 +4014,7 @@
           "subtitle_color": "#e7e7e7",
           "button": "",
           "link": "",
-          "parrallax_enable": true,
-          "image": "shopify:\/\/shop_images\/stephanie-harvey-aK53f8eAzck-unsplash.jpg"
+          "parrallax_enable": true
         }
       },
       "1621354984f5de24f4": {
@@ -4034,7 +4033,6 @@
             "settings": {
               "width": "50%",
               "align": "auto",
-              "image": "shopify:\/\/shop_images\/Dustmitexpillow_7ad41224-147b-4fa3-b913-9e1e2d89322c.png",
               "image_link": ""
             }
           }
@@ -4732,7 +4730,8 @@
         },
         "footer-1": {
           "type": "footer-1",
-          "settings": {}
+          "settings": {
+          }
         },
         "product-template-1": {
           "type": "product-template-1",
@@ -5324,7 +5323,8 @@
             "1561993581158-1",
             "1561993581158-2"
           ],
-          "settings": {}
+          "settings": {
+          }
         },
         "header-3": {
           "type": "header-3",
