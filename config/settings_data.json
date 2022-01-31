@@ -569,12 +569,12 @@
               "padding_mobile": 80,
               "bg_box": "#ffffff",
               "opacity_bgbox": 0.7,
-              "title": "Allergen Product <br> Showcase",
-              "title_color": "#416e7a",
-              "subtext": "Replace this stock video with something related to cleaning.",
-              "subtitle_color": "#6c757d",
+              "title": "Anti-Allergen <br> Laundry Detergent",
+              "title_color": "#1e6c44",
+              "subtext": "Eliminate Allergens From Clothing & Fabrics",
+              "subtitle_color": "#1e6c44",
               "button": "discover now",
-              "link": "#",
+              "link": "shopify:\/\/products\/the-hypoallergenic-laundry-detergent-recommended-by-allergists-and-dermatologists",
               "link_video": "https:\/\/cdn.shopify.com\/s\/files\/1\/0525\/4719\/0979\/files\/cosmetic.mp4?v=1609777426"
             }
           },
