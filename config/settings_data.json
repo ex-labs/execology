@@ -596,7 +596,7 @@
           "1586366327246"
         ],
         "settings": {
-          "enable_hurrify": true,
+          "enable_hurrify": false,
           "stock_enable": false,
           "enable_payment_button": true,
           "social_sharing_products": true,
