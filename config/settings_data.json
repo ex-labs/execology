@@ -431,7 +431,7 @@
         ],
         "settings": {
           "enable": true,
-          "duration": 5,
+          "duration": 20,
           "text": "Someone recently bought"
         }
       },
