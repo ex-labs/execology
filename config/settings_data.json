@@ -705,9 +705,9 @@
           "pnewletter_time": 10,
           "pnewletter_background": "#ffffff",
           "pnewletter_bgimage": "shopify:\/\/shop_images\/EW_3_Products.png",
-          "pnewletter_title": "Unlock 20% off Today",
+          "pnewletter_title": "Stay connected!",
           "pnewletter_title_cl": "#1e6c44",
-          "pnewletter_description": "<p>When you subscribe to our newsletter for our latest tips, special offers, and more.<\/p>",
+          "pnewletter_description": "<p>Subscribe to our newsletter for our latest tips, special offers, and more.<\/p>",
           "pnewletter_description_cl": "#1e6c44"
         }
       },
