@@ -185,7 +185,7 @@
           
           {%- endif -%}
         </div>
-        {%- endpaginate -%}
+        {% assign sp_paginate_by = paginate.page_size %}{%- endpaginate -%}
         {% unless section.settings.sidebar_enable %}</div> </div> {% endunless %}
       </div>
       {%- endif -%}
@@ -242,7 +242,7 @@
   </article>
 </div>
 
-{% schema %}
+{% if sp_paginate_by %}{% render 'spurit_po2_collection_template_snippet', paginate_by: sp_paginate_by %}{% endif %}{% schema %}
 {
   "name": "Article content",
   "settings": [
