@@ -575,7 +575,7 @@
               "subtitle_color": "#1e6c44",
               "button": "discover now",
               "link": "shopify:\/\/products\/the-hypoallergenic-laundry-detergent-recommended-by-allergists-and-dermatologists",
-              "link_video": "https:\/\/cdn.shopify.com\/s\/files\/1\/0525\/4719\/0979\/files\/cosmetic.mp4?v=1609777426"
+              "link_video": "https:\/\/firebasestorage.googleapis.com\/v0\/b\/ecologyworks-73f6f.appspot.com\/o\/laundry%20detergent.mp4?alt=media&token=19dfb628-d24a-4862-9f45-4c4882ba34ef"
             }
           },
           "1586366327246": {
@@ -601,16 +601,16 @@
           "enable_payment_button": true,
           "social_sharing_products": true,
           "next_prev_enable": true,
-          "product_vendor_enable": true,
-          "product_type_enable": true,
-          "variant_sku_enable": true,
-          "variant_available_enable": true,
-          "wailist": true,
+          "product_vendor_enable": false,
+          "product_type_enable": false,
+          "variant_sku_enable": false,
+          "variant_available_enable": false,
+          "wailist": false,
           "product_selector": "radio",
           "sizeguide_enable": false,
           "sizeguide_title": "Size guide",
           "sizeguide_page": "sizeguide",
-          "fake_view_enable": true,
+          "fake_view_enable": false,
           "fake_view_min": 12,
           "fake_view_max": 30,
           "fake_view_duration": 3,
