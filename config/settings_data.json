@@ -403,7 +403,7 @@
             "type": "product",
             "settings": {
               "product": "the-hypoallergenic-laundry-detergent-recommended-by-allergists-and-dermatologists",
-              "local": "in Florida",
+              "local": "",
               "time": ""
             }
           },
@@ -411,7 +411,7 @@
             "type": "product",
             "settings": {
               "product": "anti-allergen-pet-shampoo-16oz",
-              "local": "in North Carolina",
+              "local": "",
               "time": ""
             }
           },
