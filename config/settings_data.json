@@ -597,7 +597,7 @@
         ],
         "settings": {
           "enable_hurrify": true,
-          "stock_enable": true,
+          "stock_enable": false,
           "enable_payment_button": true,
           "social_sharing_products": true,
           "next_prev_enable": true,
