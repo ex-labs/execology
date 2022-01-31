@@ -1153,7 +1153,7 @@
           "enable_white": false,
           "enable_sticky": false,
           "animation_logo": false,
-          "currencies": true,
+          "currencies": false,
           "background-top": "#e4ece6",
           "textcolor-top": "#193a43",
           "background": "#ffffff",
