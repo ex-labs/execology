@@ -3890,7 +3890,7 @@
           "opacity_bg_overlay": 0.4,
           "title": "",
           "title_color": "#ffffff",
-          "subtext": "<div class=\"text-center mr-lg-5\">\n<div class=\"subtop\">For a Cleaner Tomorrow<\/div>\n<h3 class=\"mb-3\">Why Choose The Ecology  Works?<\/h3>\n<p class=\"mb-5\">The well-being of people and the planet is at the forefront of all that we do.  <br>With every product we produce comes the promise that we are actively working toward <br> safe and environmentally-sound cleaning and disinfecting solutions that enhance the quality of life.<\/p>\n<a href=\"#\" class=\"btn btn-theme px-5\">Learn more<\/a>\n<\/div>",
+          "subtext": "<div class=\"text-center mr-lg-5\">\n<div class=\"subtop\">For a Cleaner Tomorrow<\/div>\n<h3 class=\"mb-3\">Why Choose The Ecology  Works?<\/h3>\n<p class=\"mb-5\">The well-being of people and the planet is at the forefront of all that we do.  <br>With every product we produce comes the promise that we are actively working toward <br> safe and environmentally-sound cleaning and disinfecting solutions that enhance the quality of life.<\/p>\n<a href=\"\/pages\/our-mission\" class=\"btn btn-theme px-5\">Learn more<\/a>\n<\/div>",
           "overwritecolor": true,
           "subtitle_color": "#e7e7e7",
           "button": "",
