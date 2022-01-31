@@ -2981,43 +2981,6 @@
       },
       "service-v3": {
         "type": "service-v3",
-        "blocks": {
-          "1587751215011": {
-            "type": "address",
-            "disabled": true,
-            "settings": {
-              "store_addess": "<div class=\"mb-4\">\n<h2 class=\" mb-3\">01<\/h2>\n<span class=\"text-body font-weight-bold\">STORE NEWYORK<\/span>\n<\/div>",
-              "contact_addess": "123 Sky Tower, West 21th Street, Suite 721, NY",
-              "contact_phone": "+844 123 456 789",
-              "contact_mail": "sale@yourcompany.com"
-            }
-          },
-          "1587751341165": {
-            "type": "address",
-            "disabled": true,
-            "settings": {
-              "store_addess": "<div class=\"mb-4\">\n<h2 class=\"mb-3\">02<\/h2>\n<span class=\"text-body font-weight-bold\">STORE NEWYORK<\/span>\n<\/div>",
-              "contact_addess": "123 Sky Tower, West 21th Street, Suite 721, NY",
-              "contact_phone": "+844 123 456 789",
-              "contact_mail": "sale@yourcompany.com"
-            }
-          },
-          "1587751398826": {
-            "type": "address",
-            "disabled": true,
-            "settings": {
-              "store_addess": "<div class=\"mb-4\">\n<h2 class=\"mb-3\">03<\/h2>\n<span class=\"text-body font-weight-bold\">STORE NEWYORK<\/span>\n<\/div>",
-              "contact_addess": "123 Sky Tower, West 21th Street, Suite 721, NY",
-              "contact_phone": "+844 123 456 789",
-              "contact_mail": "sale@yourcompany.com"
-            }
-          }
-        },
-        "block_order": [
-          "1587751215011",
-          "1587751341165",
-          "1587751398826"
-        ],
         "settings": {
           "enablesection": false,
           "animation": "fade-up",
