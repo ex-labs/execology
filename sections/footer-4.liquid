@@ -225,21 +225,26 @@
  
 
   <section class="footer-mid pt-4 pb-4  pt-lg-4 pb-lg-4 border-top">
-    <div class="container-fluid">
-      <div class="row align-items-lg-center">
+    <div class="container">
+      <!-- div class="row align-items-lg-center" -->
+      <div class="row">
+        {%- if section.settings.logo != blank -%}
         <div class="col-lg-4 col-md-12 text-center text-lg-left">
-          {%- if section.settings.logo != blank -%}
           <img class="lazyload mb-4 mb-lg-0" data-src="{{section.settings.logo | img_url: '200x'}}" width="{{section.settings.logo_max_width}}px" />
-          {%- endif -%}
-          
         </div>
-        <div class="col-lg-4 col-md-12 text-center">
+        {%- endif -%}
+        <div class="col-lg-6 text-center text-lg-left">
           <div class="footer__powered">
             <p>&copy; Copyright {{ "now" | date: "%Y" }} <b>{{ shop.name }}</b>. {%- if section.settings.powered_enable -%}
-              <span> {{ powered_by_link }}</span>
+              <span>&nbsp;<a href="https://exlabs.us">Made with by ♥ EX.Labs</a></span>
               {%- endif -%}</p>
           </div>
-        </div>
+        </div><!-- /copyright -->
+        <div class="col-lg-6 text-center text-lg-right">
+          <div class="footer__powered">
+            <p><a href="/policies/privacy-policy">Privacy Policy</a> | <a href="/policies/terms-of-service">Terms of Service</a></p>
+          </div>
+        </div><!-- policies -->
       </div>
     </div>
   </section>
