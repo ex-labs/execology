@@ -4045,7 +4045,7 @@
           "title_top": "Your Guide",
           "title": "Our Blog",
           "des": "Cleaning guides, allergen-reducing tips, and more to help you get the most out of your Ecology Works products.",
-          "blog": "ecology-works-blog",
+          "blog": "blog",
           "setwidth": "container",
           "arrows": true,
           "draggable": true,
