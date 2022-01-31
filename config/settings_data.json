@@ -2446,6 +2446,7 @@
           "1583425647500": {
             "type": "image",
             "settings": {
+              "image": "shopify:\/\/shop_images\/ecology3.jpg",
               "posimage": "leftimage",
               "alignment": "left top",
               "text_alignment": "center center",
