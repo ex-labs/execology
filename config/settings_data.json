@@ -2351,7 +2351,7 @@
           "footermidlink": "#c99a5c",
           "logo_max_width": 150,
           "social_enable": true,
-          "powered_enable": false
+          "powered_enable": true
         }
       },
       "slideshow-2": {
