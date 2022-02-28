@@ -2360,9 +2360,9 @@
           "1583425647500": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/ecology3.jpg",
+              "image": "shopify:\/\/shop_images\/EW_AA_Solution_Leaf_Color_Corr.png",
               "posimage": "leftimage",
-              "alignment": "left top",
+              "alignment": "center top",
               "text_alignment": "center center",
               "bgwrap": "#e0f1e4",
               "slide_toptitle": "Anti-Allergen Solution",
